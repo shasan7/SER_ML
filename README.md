@@ -31,7 +31,7 @@ Average Accuracy for Logistic Regression: 99.29%
          [   0    1    0    0 1086    0]
          [   0    1    0    0    0 1270]]
  
-Overall Classification Report for Logistic Regression:
+        Overall Classification Report for Logistic Regression:
 
               precision    recall  f1-score   support
 
@@ -65,7 +65,7 @@ Average Accuracy for Random Forest: 99.58%
          [   1    1    0    0 1085    0]
          [   0    0    3    0    0 1268]]
  
-Overall Classification Report for Random Forest:
+        Overall Classification Report for Random Forest:
 
               precision    recall  f1-score   support
 
@@ -98,7 +98,7 @@ Average Accuracy for SVM: 98.99%
          [   3    2    0    0 1082    0]
          [   6    1    0    0    0 1264]]
  
-Overall Classification Report for SVM:
+        Overall Classification Report for SVM:
 
               precision    recall  f1-score   support
 
@@ -132,7 +132,7 @@ Average Accuracy for XGBoost: 99.46%
          [   1    0    0    0 1086    0]
          [   0    0    4    0    0 1267]]
  
-Overall Classification Report for XGBoost:
+        Overall Classification Report for XGBoost:
 
               precision    recall  f1-score   support
 
@@ -166,7 +166,7 @@ Average Accuracy for Linear Discriminant Analysis: 98.44%
          [   1    3    1    0 1082    0]
          [   0    1    2    0    0 1268]]
  
-Overall Classification Report for Linear Discriminant Analysis:
+        Overall Classification Report for Linear Discriminant Analysis:
 
               precision    recall  f1-score   support
 
@@ -200,7 +200,7 @@ Average Accuracy for Ridge Classifier: 98.07%
          [   0    3    0    0 1084    0]
          [   0    1    4    0    0 1266]]
  
-Overall Classification Report for Ridge Classifier:
+        Overall Classification Report for Ridge Classifier:
 
               precision    recall  f1-score   support
 
@@ -234,7 +234,7 @@ Average Accuracy for SGD Classifier: 99.73%
          [   0    1    0    0 1086    0]
          [   0    1    0    0    0 1270]]
  
-Overall Classification Report for SGD Classifier:
+        Overall Classification Report for SGD Classifier:
 
               precision    recall  f1-score   support
 
@@ -268,7 +268,7 @@ Average Accuracy for MLP (Neural Network): 99.62%
          [   0    2    0    0 1085    0]
          [   0    0    0    0    0 1271]]
  
-Overall Classification Report for MLP (Neural Network):
+        Overall Classification Report for MLP (Neural Network):
 
               precision    recall  f1-score   support
 
