@@ -22,14 +22,14 @@ Fold Accuracy: 99.26%
 
 Average Accuracy for Logistic Regression: 99.29%
 
-  Overall Confusion Matrix for Logistic Regression:
-  
-  [[1271    0    0    0    0    0]
-   [   0 1254   17    0    0    0]
-   [   1   14 1247    2    0    7]
-   [   8    2    0 1261    0    0]
-   [   0    1    0    0 1086    0]
-   [   0    1    0    0    0 1270]]
+      Overall Confusion Matrix for Logistic Regression:
+      
+      [[1271    0    0    0    0    0]
+       [   0 1254   17    0    0    0]
+       [   1   14 1247    2    0    7]
+       [   8    2    0 1261    0    0]
+       [   0    1    0    0 1086    0]
+       [   0    1    0    0    0 1270]]
  
 Overall Classification Report for Logistic Regression:
 
