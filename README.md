@@ -10,7 +10,7 @@ Right now, the dataset is kept private as its a part of my M. Sc. (Engg) Thesis.
 We extracted three features from the speech samples, namely Mel-Frequency Cepstral Coefficients (MFCCs), Zero Crossing Rate (ZCR), and Short-term RMS Energy.
 The MFCCs are considered to be the most important feature for speech data type. The MFCC feature extraction princple is depicted here:
 
-![Methodology: ](Feature Extraction Methodology.png)
+![Feature Extraction Methodology: ](Feature Extraction Methodology.png)
 
 Following, 8 machine learning models were run using a 5-fold cross-validation scheme to classify the emotional categories of the speech samples by leveraging the extracted features.
 Logistic Regression, Random Forest, Support Vector Machine, XGBoost, Linear Discriminant Analysis, Ridge Classifier, SGD Classifier and Multi-layer Perceptron (ANN or Neural Network) were run.
