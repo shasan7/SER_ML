@@ -24,12 +24,12 @@ Logistic Regression, Random Forest, Support Vector Machine, XGBoost, Linear Disc
 
 We obtained the following results:
 
-Logistic Regression:
-Fold Accuracy: 99.19% <br/>
-Fold Accuracy: 99.46% <br/>
-Fold Accuracy: 99.19% <br/>
-Fold Accuracy: 99.33% <br/>
-Fold Accuracy: 99.26% <br/>
+        Logistic Regression: <br/>
+        Fold Accuracy: 99.19% <br/>
+        Fold Accuracy: 99.46% <br/>
+        Fold Accuracy: 99.19% <br/>
+        Fold Accuracy: 99.33% <br/>
+        Fold Accuracy: 99.26% <br/>
 
 Average Accuracy for Logistic Regression: 99.29%
 
@@ -58,12 +58,12 @@ Average Accuracy for Logistic Regression: 99.29%
     weighted avg   0.99      0.99      0.99      7442
 
 
-Random Forest:
-Fold Accuracy: 99.46%
-Fold Accuracy: 99.53%
-Fold Accuracy: 99.73%
-Fold Accuracy: 99.73%
-Fold Accuracy: 99.46%
+        Random Forest: <br/>
+        Fold Accuracy: 99.46% <br/>
+        Fold Accuracy: 99.53% <br/>
+        Fold Accuracy: 99.73% <br/>
+        Fold Accuracy: 99.73% <br/>
+        Fold Accuracy: 99.46% <br/>
 
 Average Accuracy for Random Forest: 99.58%
 
