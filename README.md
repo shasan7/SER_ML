@@ -6,12 +6,13 @@
 
 ![Abstract_mini: ](Abstract_mini.png)
 
-The dataset was downsampled to 16 kHz for quicker processing and speech samples were kept into certain subfolders according to their emotional category.
+The dataset was **downsampled to 16 kHz** for quicker processing and speech samples were kept into certain subfolders according to their emotional category.
 Right now, the dataset is **kept private as its a part of my M. Sc. (Engg) Thesis**. After completion of the program, the dataset can be made **available upon request**.
 
 ![Abstract: ](Abstract.png)
 
-We extracted three features from the speech samples, namely **Mel-Frequency Cepstral Coefficients (MFCCs), Zero Crossing Rate (ZCR), and Short-term RMS Energy**.
+An **starting offset of 0.6 seconds** and total **audio length of 2.5 seconds** was used, to **avoid initial and ending noises** and maintain an acceptable **audio length**. 
+We extracted **three features** from the speech samples, namely **Mel-Frequency Cepstral Coefficients (MFCCs), Zero Crossing Rate (ZCR), and Short-term RMS Energy**.
 The **MFCCs** are considered to be the **most important feature** for speech data type. The MFCC feature extraction princple is depicted here:
 
 ![MFCC: ](MFCC.png)
