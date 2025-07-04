@@ -58,12 +58,12 @@ Average Accuracy for Logistic Regression: 99.29%
     weighted avg   0.99      0.99      0.99      7442
 
 
-        Random Forest: <br/>
-        Fold Accuracy: 99.46% <br/>
-        Fold Accuracy: 99.53% <br/>
-        Fold Accuracy: 99.73% <br/>
-        Fold Accuracy: 99.73% <br/>
-        Fold Accuracy: 99.46% <br/>
+        Random Forest:
+        Fold Accuracy: 99.46%
+        Fold Accuracy: 99.53%
+        Fold Accuracy: 99.73%
+        Fold Accuracy: 99.73%
+        Fold Accuracy: 99.46%
 
 Average Accuracy for Random Forest: 99.58%
 
@@ -92,12 +92,13 @@ Average Accuracy for Random Forest: 99.58%
     weighted avg   1.00      1.00      1.00      7442
 
 
-SVM:
-Fold Accuracy: 98.99%
-Fold Accuracy: 99.06%
-Fold Accuracy: 98.59%
-Fold Accuracy: 99.13%
-Fold Accuracy: 99.19%
+        SVM:
+        Fold Accuracy: 98.99%
+        Fold Accuracy: 99.06%
+        Fold Accuracy: 98.59%
+        Fold Accuracy: 99.13%
+        Fold Accuracy: 99.19%
+        
 Average Accuracy for SVM: 98.99%
 
         Overall Confusion Matrix for SVM:
@@ -125,12 +126,12 @@ Average Accuracy for SVM: 98.99%
     weighted avg   0.99      0.99      0.99      7442
 
 
-XGBoost:
-Fold Accuracy: 99.46%
-Fold Accuracy: 99.40%
-Fold Accuracy: 99.60%
-Fold Accuracy: 99.33%
-Fold Accuracy: 99.53%
+        XGBoost:
+        Fold Accuracy: 99.46%
+        Fold Accuracy: 99.40%
+        Fold Accuracy: 99.60%
+        Fold Accuracy: 99.33%
+        Fold Accuracy: 99.53%
 
 Average Accuracy for XGBoost: 99.46%
 
@@ -159,12 +160,12 @@ Average Accuracy for XGBoost: 99.46%
     weighted avg   0.99      0.99      0.99      7442
 
 
-Linear Discriminant Analysis:
-Fold Accuracy: 98.52%
-Fold Accuracy: 98.39%
-Fold Accuracy: 98.39%
-Fold Accuracy: 98.79%
-Fold Accuracy: 98.12%
+        Linear Discriminant Analysis:
+        Fold Accuracy: 98.52%
+        Fold Accuracy: 98.39%
+        Fold Accuracy: 98.39%
+        Fold Accuracy: 98.79%
+        Fold Accuracy: 98.12%
 
 Average Accuracy for Linear Discriminant Analysis: 98.44%
 
@@ -193,12 +194,12 @@ Average Accuracy for Linear Discriminant Analysis: 98.44%
     weighted avg   0.98      0.98      0.98      7442
 
 
-Ridge Classifier:
-Fold Accuracy: 98.52%
-Fold Accuracy: 97.65%
-Fold Accuracy: 97.58%
-Fold Accuracy: 98.19%
-Fold Accuracy: 98.39%
+        Ridge Classifier:
+        Fold Accuracy: 98.52%
+        Fold Accuracy: 97.65%
+        Fold Accuracy: 97.58%
+        Fold Accuracy: 98.19%
+        Fold Accuracy: 98.39%
 
 Average Accuracy for Ridge Classifier: 98.07%
 
@@ -227,12 +228,12 @@ Average Accuracy for Ridge Classifier: 98.07%
     weighted avg   0.98      0.98      0.98      7442
 
 
-SGD Classifier:
-Fold Accuracy: 99.66%
-Fold Accuracy: 99.66%
-Fold Accuracy: 99.93%
-Fold Accuracy: 99.80%
-Fold Accuracy: 99.60%
+        SGD Classifier:
+        Fold Accuracy: 99.66%
+        Fold Accuracy: 99.66%
+        Fold Accuracy: 99.93%
+        Fold Accuracy: 99.80%
+        Fold Accuracy: 99.60%
 
 Average Accuracy for SGD Classifier: 99.73%
 
@@ -261,12 +262,12 @@ Average Accuracy for SGD Classifier: 99.73%
     weighted avg   1.00      1.00      1.00      7442
 
 
-MLP (Neural Network):
-Fold Accuracy: 99.53%
-Fold Accuracy: 99.53%
-Fold Accuracy: 99.87%
-Fold Accuracy: 99.60%
-Fold Accuracy: 99.60%
+        MLP (Neural Network):
+        Fold Accuracy: 99.53%
+        Fold Accuracy: 99.53%
+        Fold Accuracy: 99.87%
+        Fold Accuracy: 99.60%
+        Fold Accuracy: 99.60%
 
 Average Accuracy for MLP (Neural Network): 99.62%
 
