@@ -24,7 +24,7 @@ Logistic Regression, Random Forest, Support Vector Machine, XGBoost, Linear Disc
 
 We obtained the following results:
 
-        Logistic Regression:
+Logistic Regression:
         Fold Accuracy: 99.19%
         Fold Accuracy: 99.46%
         Fold Accuracy: 99.19%
@@ -58,7 +58,7 @@ Average Accuracy for Logistic Regression: 99.29%
     weighted avg   0.99      0.99      0.99      7442
 
 
-        Random Forest:
+Random Forest:
         Fold Accuracy: 99.46%
         Fold Accuracy: 99.53%
         Fold Accuracy: 99.73%
@@ -92,7 +92,7 @@ Average Accuracy for Random Forest: 99.58%
     weighted avg   1.00      1.00      1.00      7442
 
 
-        SVM:
+SVM:
         Fold Accuracy: 98.99%
         Fold Accuracy: 99.06%
         Fold Accuracy: 98.59%
@@ -126,7 +126,7 @@ Average Accuracy for SVM: 98.99%
     weighted avg   0.99      0.99      0.99      7442
 
 
-        XGBoost:
+XGBoost:
         Fold Accuracy: 99.46%
         Fold Accuracy: 99.40%
         Fold Accuracy: 99.60%
@@ -160,7 +160,7 @@ Average Accuracy for XGBoost: 99.46%
     weighted avg   0.99      0.99      0.99      7442
 
 
-        Linear Discriminant Analysis:
+Linear Discriminant Analysis:
         Fold Accuracy: 98.52%
         Fold Accuracy: 98.39%
         Fold Accuracy: 98.39%
@@ -194,7 +194,7 @@ Average Accuracy for Linear Discriminant Analysis: 98.44%
     weighted avg   0.98      0.98      0.98      7442
 
 
-        Ridge Classifier:
+Ridge Classifier:
         Fold Accuracy: 98.52%
         Fold Accuracy: 97.65%
         Fold Accuracy: 97.58%
@@ -228,7 +228,7 @@ Average Accuracy for Ridge Classifier: 98.07%
     weighted avg   0.98      0.98      0.98      7442
 
 
-        SGD Classifier:
+SGD Classifier:
         Fold Accuracy: 99.66%
         Fold Accuracy: 99.66%
         Fold Accuracy: 99.93%
@@ -262,7 +262,7 @@ Average Accuracy for SGD Classifier: 99.73%
     weighted avg   1.00      1.00      1.00      7442
 
 
-        MLP (Neural Network):
+MLP (Neural Network):
         Fold Accuracy: 99.53%
         Fold Accuracy: 99.53%
         Fold Accuracy: 99.87%
